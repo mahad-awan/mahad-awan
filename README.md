@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**mahad-awan/mahad-awan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 Current Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python Basics ✅
+- OOP Concepts ⏳
+- Machine Learning ⏳
+- AI Projects ⏳
+
+---
+
+## 🎯 Future Goals
+
+- Build AI-based mini projects
+- Learn Machine Learning algorithms
+- Work with real-world datasets
+- Become a professional AI Engineer
+
+---
+
+## 📜 License
+
+This repository is created for **educational and learning purposes only**.
+
+---
+
+⭐ Thank you for visiting my repository!
