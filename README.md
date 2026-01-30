@@ -69,10 +69,10 @@ I am a passionate **AI Engineer** pursuing a BS in Computer Science, focused on 
 
 ## 🤝 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/saad-awan11" target="blank">
+<a href="linkdin_link" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:isaadawan1122@gmail.com">
+<a href="mahadawandevolper@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
